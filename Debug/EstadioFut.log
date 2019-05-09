@@ -1,0 +1,8 @@
+﻿  base_p11.cpp
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(56): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(135): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(188): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(397): warning C4101: 'theta': variable local sin referencia
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(397): warning C4101: 'phi': variable local sin referencia
+C:\Users\User\Documents\Visual Studio 2019\EstadioFut\EstadioFut\figuras.h(624): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  EstadioFut.vcxproj -> C:\Users\User\Documents\Visual Studio 2019\EstadioFut\Debug\EstadioFut.exe
